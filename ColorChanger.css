@@ -1,0 +1,169 @@
+.title {
+	font-size: 40px
+	font: helvetica, sans-serif;
+	text-align: center;
+}
+
+#color-buttons {
+	display: table;
+	margin: 0 auto 0 auto;
+}
+
+
+.selectorDiv {
+	margin: 0 auto;
+	display: table;
+}
+
+#remove-current {
+	display: table;
+	margin: 0 auto 0 auto;
+}
+
+.blue {
+	background-color: blue;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+}
+
+.blue2 {
+	background-color: blue;
+
+}
+.red {
+	background-color: red;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.red2 {
+	background-color: red;
+}
+
+.green{
+	background-color: green;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px;
+
+}
+.green2 {
+	background-color: green;
+}
+
+#Black {
+	background-color: black;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px;
+	color: white;
+
+} 
+.Black2 {
+	background-color: black;
+}
+#Chocolate {
+	background-color: chocolate;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Chocolate2 {
+	background-color: chocolate;
+}
+#Coral {
+	background-color: coral;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Coral2 {
+	background-color: coral;
+}
+#Cornsilk {
+	background-color: cornsilk;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Cornsilk2 {
+	background-color: cornsilk;
+}
+#Firebrick {
+	background-color: firebrick;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Firebrick2 {
+	background-color: firebrick;
+}
+#Gold {
+	background-color: gold;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Gold2 {
+	background-color: gold;
+}
+#Maroon {
+	background-color: maroon;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Maroon2 {
+	background-color: maroon;
+}
+#Orchid {
+	background-color: orchid;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Orchid2 {
+	background-color: orchid;
+}
+#Peru {
+	background-color: peru;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Peru2 {
+	background-color: peru;
+}
+#Skyblue {
+	background-color: skyblue;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Skyblue2 {
+	background-color: skyblue;
+}
+#Yellowgreen {
+	background-color: yellowgreen;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Yellowgreen2 {
+	background-color: yellowgreen;
+}
+#Whitesmoke {
+	background-color: whitesmoke;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+}
+.Whitesmoke2 {
+	background-color: whitesmoke;
+}
+#Turquoise {
+	background-color: turquoise;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px
+
+}
+.Turquoise2 {
+	background-color: turquoise;
+}
